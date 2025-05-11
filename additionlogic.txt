@@ -2,3 +2,6 @@
 #get two numbers from terminal
 #add those numbers and store the result in a variable
 #return the result
+# this is my addition logic
+# create a function and pass arguments
+# return the result
